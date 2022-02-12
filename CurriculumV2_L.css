@@ -1,0 +1,140 @@
+.left_pan
+{
+  height: 100%;
+  width: 500px;
+  position: relative;
+  box-sizing: border-box;
+  float: left;
+  margin-right: 160px;
+  margin-bottom: 60px;
+  margin-left: 20px;
+}
+.quien_soy, h2
+{
+  line-height: 1.4;
+}
+.twitter_icon, .instagram_icon, .gmail_icon
+{
+  height: 25px;
+  width: 25px;
+  float: left;
+  margin-right: 4px;
+}
+a.twitter_link, a.git_link, a.gmail_link
+{
+  margin-left: 4px;
+  position: relative;
+  clear: right;
+  font-family: "Fjalla One", sans-serif;
+  font-size: 18px;
+  text-decoration: none;
+  color: #024A86;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom: 2px solid #FB8B23;
+  transition: 0.4s;
+}
+a.ig_link, a.gmail_link
+{
+  margin-top: 4px;
+  cursor: pointer;
+}
+a.twitter_link:hover, a.gmail_link:hover, a.git_link:hover
+{
+  margin-left: 4px;
+  position: relative;
+  clear: right;
+  font-family: "Fjalla One", sans-serif;
+  font-size: 22px;
+  text-decoration: none;
+  color: #024A86;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  border-bottom: 2px solid transparent;
+  box-shadow: -2px 2px 2px 2px #FB8B23;
+}
+.rank
+{
+  border-radius: 8px;
+  width: 250px;
+  height: 18px;
+  border: 2px solid #024A86;
+  clear: right;
+  position: relative;
+  overflow: hidden;
+  margin-top: 20px;
+}
+.stat
+{
+  border-radius: 8px;
+  width: 0px;
+  height: 20px;
+  border: 2px solid #024A86;
+  clear: right;
+  position: relative;
+  overflow: hidden;
+  margin-top: -3px;
+  margin-left: 0px;
+  background-color: #024A86;
+}
+.ph
+{
+  width: 100px;
+}
+.wr
+{
+  width: 225px;
+}
+.dw
+{
+  width: 125px;
+}
+.lang
+{
+  border-radius: 8px;
+  width: 250px;
+  height: 18px;
+  border: 2px solid #024A86;
+  clear: right;
+  position: relative;
+  overflow: hidden;
+  margin-top: 20px;
+}
+.language
+{
+  border-radius: 8px;
+  width: 0px;
+  height: 20px;
+  border: 2px solid #024A86;
+  clear: right;
+  position: relative;
+  overflow: hidden;
+  margin-top: -3px;
+  margin-left: 0px;
+  background-color: #024A86;
+}
+.eng
+{
+  width: 240px;
+}
+.esp
+{
+  width: 250px;
+}
+.caja_lang
+{
+  background-clip: content-box;
+  border-radius: 8px;
+  width: 250px;
+  height: 18px;
+  border: 2px solid #024A86;
+  clear: right;
+  position: relative;
+  overflow: hidden;
+  margin-top: 20px;
+}
